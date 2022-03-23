@@ -14,7 +14,7 @@
 1. Log into the GitHub website or application
 2. Find **New** or **New repository** 
     - This will bring us to the create repository page
-3. Fill in the repository name box with your preferred name and end with github.io 
+3. Fill in the repository name box same as **Owner**'s name and end with github.io 
 4. Add an README file into the repository page 
 5. Click **Create repository** to end the creation of the repository
     -  When we finish this step, we will at the new repository that we just created
@@ -32,9 +32,9 @@
 4. Add comment to clarify any changes we made for the file
 5. **Commit changes** will add the resume into the repository
  
-### Choosing theme of the GiHub Pages 
+### Choosing theme and title of the GitHub Pages 
 1. Create new file by clicking **Add file**
-2. Write theme and title by using these two code:
+2. Write theme and title of the GitHub pages by using these two code:
     ```
     theme: jekyll-theme-slate
     title: "Our Resume"
@@ -43,7 +43,10 @@
 3. Type *_config.yml* as the file name 
 4 and 5 are same steps in **adding resume into the repository**
 
-### 
+### Opening the GitHub Pages
+1. Add the _repository name.github.io_ into the web search bar
+    - Then, it will find our resume host on the GitHub Pages.
+    - Note: we can also find our GitHub pages at **Settings**.
 ### More resources
 - [How to create a good Markdown](https://www.markdownguide.org/getting-started/)
 - [Morden technical writing introduction dodument](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) which is written by Andrew Etter. 
@@ -61,6 +64,7 @@
 
 ## FAQs
 
-  1. I made some change on my GitHub change, 
+  1. I made some change on my GitHub Pages, but it does not show immediately. Why?
+    - Since there is about 20 minutes latency time for GitHub Pages to get the changes.
   2.
 
