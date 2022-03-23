@@ -1,3 +1,7 @@
+---
+title:"My resume"
+---
+
 ## Hong Gao
 
 Connect information: gaoh34@myumanitoba.ca
