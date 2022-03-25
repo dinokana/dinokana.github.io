@@ -26,9 +26,9 @@ Connect information:
     
 - Communication skill
   - Commpleted many projects not only the computer courses, but also other language courses
-  - Communicated group membere in different languages (i.e. English, Chinese, Japanese, Mongolian, Korean)
+  - Communicated with group member in different languages (i.e. English, Chinese, Japanese, Mongolian, Korean)
   - Can reasonable assign project work, and group member can the finished the project before the publication date
-  - Can help group member to understand the material of project 
+  - Can help group member to understand the material of project clearly and correctly 
     
 ## Volunteer Experience
 
