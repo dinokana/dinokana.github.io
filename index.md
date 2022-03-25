@@ -1,24 +1,43 @@
-# Hong Gao
+# Hong Gao 
 
-Connect information: gaoh34@myumanitoba.ca
+Connect information:
+- xxx-xxxx Road, Winnipeg, MB, Canada 
+- Phone Number: 204-xxx-xxxx
+- Email:xxx@myumanitoba.ca
 
 ## Education
 
 - Major: computer science 
 - University: University of Manitoba 
-- Area of interest: software engineering, database, analysis of algorithm, and computer organization.
+- Area of interest: software engineering, database, analysis of algorithm, and computer organization
 
-## Relevant Computer Skills
+## Computer Skills
 
-- Software development skil:
-    Having experience about developing a software with a group and participating interface design and database maintenance and testing.
+- Software development skill
+  - Have experience with group to create a shopping application
+  - Understood the process of a software from idea generation to test and maintenance 
+  - Designed the interface of software 
+  - Participated test and maintenance of database and whole software
  
-- Web page development skill:
-    Having opportunity to create dynamic web page and design work with a group.
+- Web page development skill
+  - Have experience with group to create a delivery webpage 
+  - Created a dynamic webpage about ordering page
+  - Completed the whole webpage interface layout
     
-- Communication skill:
-    Through developing and designing tasks with different groups, accumulated experience in task assignment and follow-up of task progress.
+- Communication skill
+  - Commpleted many projects not only the computer courses, but also other language courses
+  - Communicated group membere in different languages (i.e. English, Chinese, Japanese, Mongolian, Korean)
+  - Can reasonable assign project work, and group member can the finished the project before the publication date
+  - Can help group member to understand the material of project 
     
-## Volunteer experience
+## Volunteer Experience
 
-- Having worked as a volunteer in the hospital, I have a clear understanding of the hospital admission process and basic common sense.
+- Having opportunity to work in a hospital:
+    - Understood of the hospital admission process
+    - Followed a doctor to conduct the rounds of wards and outpatient training
+
+## Interests
+- Playing the piano 
+- Drawing
+- Listing to music 
+- Reading 
