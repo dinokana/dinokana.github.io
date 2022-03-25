@@ -64,7 +64,7 @@
 - [Video about hosting profile on GitHub Pages](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19) which is created by Mike Dane.
 
 ### Image of our resume hosted on the GitHub Pages 
-- ![Our Resume]()
+- ![Our Resume](https://github.com/dinokana/dinokana.github.io/blob/main/resume.gif)
 ## Author and Acknowledgements 
 - Author:
  - Hong Gao
