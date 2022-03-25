@@ -4,9 +4,9 @@ Connect information: gaoh34@myumanitoba.ca
 
 ## Education
 
-Major: computer science 
-University: University of Manitoba 
-Area of interest: software engineering, database, analysis of algorithm, and computer organization.
+- Major: computer science 
+- University: University of Manitoba 
+- Area of interest: software engineering, database, analysis of algorithm, and computer organization.
 
 ## Relevant Computer Skills
 
